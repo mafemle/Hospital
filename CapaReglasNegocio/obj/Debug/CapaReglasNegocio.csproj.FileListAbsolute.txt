@@ -1,0 +1,11 @@
+C:\Users\mafem\source\repos\Hostipal\CapaReglasNegocio\obj\Debug\CapaReglasNegocio.csprojAssemblyReference.cache
+C:\Users\mafem\source\repos\Hostipal\CapaReglasNegocio\obj\Debug\CapaReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\mafem\source\repos\Hostipal\CapaReglasNegocio\bin\Debug\CapaReglasNegocio.dll
+C:\Users\mafem\source\repos\Hostipal\CapaReglasNegocio\bin\Debug\CapaReglasNegocio.pdb
+C:\Users\mafem\source\repos\Hostipal\CapaReglasNegocio\bin\Debug\CapaDatos.dll
+C:\Users\mafem\source\repos\Hostipal\CapaReglasNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\mafem\source\repos\Hostipal\CapaReglasNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\mafem\source\repos\Hostipal\CapaReglasNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\mafem\source\repos\Hostipal\CapaReglasNegocio\obj\Debug\CapaReglasNegocio.csproj.CopyComplete
+C:\Users\mafem\source\repos\Hostipal\CapaReglasNegocio\obj\Debug\CapaReglasNegocio.dll
+C:\Users\mafem\source\repos\Hostipal\CapaReglasNegocio\obj\Debug\CapaReglasNegocio.pdb
